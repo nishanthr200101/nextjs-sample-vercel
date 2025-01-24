@@ -1,4 +1,4 @@
-# Versal Deploy
+# NestJS Sample Vercel
 
 ## Published Domain
 The application is live at: [https://nextjs-sample-vercel-nine.vercel.app/](https://nextjs-sample-vercel-nine.vercel.app/)
